@@ -5,7 +5,7 @@
 [Vuex Crash Course | State Management](https://school.geekwall.in/p/SyDky2DXB/vuex-crash-course-state-management?fbclid=IwAR3RKhGCnD06XYnU4w4FUNDdbHGlMVUR5ezsUa6rtAoaJfAKaSLMZCoi6lc)
 
 ## Visto
-[Video current time](https://youtu.be/5lVQgZzLMHc?t=1136)
+[Video current time](https://youtu.be/5lVQgZzLMHc?t=2242)
 
 ## Project setup
 ```
